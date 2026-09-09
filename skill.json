@@ -1,0 +1,13 @@
+{
+  "name": "genpark-chandy-misra-haas-distributed-deadlock-skill",
+  "version": "1.0.0",
+  "description": "Chandy-Misra-Haas probe-based edge-chasing algorithm detecting distributed wait-for dependency deadlocks across asynchronous agent swarms.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "chandy-misra-haas",
+    "edge-chasing",
+    "distributed-deadlock",
+    "deadlock-detection"
+  ]
+}
